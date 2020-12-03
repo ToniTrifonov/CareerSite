@@ -1,0 +1,9 @@
+C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Services\KarieriBG.Services\bin\Debug\netstandard2.1\KarieriBG.Services.deps.json
+C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Services\KarieriBG.Services\bin\Debug\netstandard2.1\KarieriBG.Services.dll
+C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Services\KarieriBG.Services\bin\Debug\netstandard2.1\KarieriBG.Services.pdb
+C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Services\KarieriBG.Services\obj\Debug\netstandard2.1\KarieriBG.Services.AssemblyInfoInputs.cache
+C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Services\KarieriBG.Services\obj\Debug\netstandard2.1\KarieriBG.Services.AssemblyInfo.cs
+C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Services\KarieriBG.Services\obj\Debug\netstandard2.1\KarieriBG.Services.csproj.CoreCompileInputs.cache
+C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Services\KarieriBG.Services\obj\Debug\netstandard2.1\KarieriBG.Services.dll
+C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Services\KarieriBG.Services\obj\Debug\netstandard2.1\KarieriBG.Services.pdb
+C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Services\KarieriBG.Services\obj\Debug\netstandard2.1\KarieriBG.Services.csprojAssemblyReference.cache

@@ -1,0 +1,531 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Tests\\KarieriBG.Services.Data.Tests\\KarieriBG.Services.Data.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Common\\KarieriBG.Data.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Common\\KarieriBG.Data.Common.csproj",
+        "projectName": "KarieriBG.Data.Common",
+        "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Common\\KarieriBG.Data.Common.csproj",
+        "packagesPath": "C:\\Users\\123\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Models\\KarieriBG.Data.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Models\\KarieriBG.Data.Models.csproj",
+        "projectName": "KarieriBG.Data.Models",
+        "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Models\\KarieriBG.Data.Models.csproj",
+        "packagesPath": "C:\\Users\\123\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Common\\KarieriBG.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Common\\KarieriBG.Data.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data\\KarieriBG.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data\\KarieriBG.Data.csproj",
+        "projectName": "KarieriBG.Data",
+        "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data\\KarieriBG.Data.csproj",
+        "packagesPath": "C:\\Users\\123\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Common\\KarieriBG.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Common\\KarieriBG.Data.Common.csproj"
+              },
+              "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Models\\KarieriBG.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Models\\KarieriBG.Data.Models.csproj"
+              },
+              "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\KarieriBG.Common\\KarieriBG.Common.csproj": {
+                "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\KarieriBG.Common\\KarieriBG.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\KarieriBG.Common\\KarieriBG.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\KarieriBG.Common\\KarieriBG.Common.csproj",
+        "projectName": "KarieriBG.Common",
+        "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\KarieriBG.Common\\KarieriBG.Common.csproj",
+        "packagesPath": "C:\\Users\\123\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\KarieriBG.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Data\\KarieriBG.Services.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Data\\KarieriBG.Services.Data.csproj",
+        "projectName": "KarieriBG.Services.Data",
+        "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Data\\KarieriBG.Services.Data.csproj",
+        "packagesPath": "C:\\Users\\123\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Common\\KarieriBG.Data.Common.csproj": {
+                "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Common\\KarieriBG.Data.Common.csproj"
+              },
+              "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Models\\KarieriBG.Data.Models.csproj": {
+                "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Models\\KarieriBG.Data.Models.csproj"
+              },
+              "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Mapping\\KarieriBG.Services.Mapping.csproj": {
+                "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Mapping\\KarieriBG.Services.Mapping.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Mapping\\KarieriBG.Services.Mapping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Mapping\\KarieriBG.Services.Mapping.csproj",
+        "projectName": "KarieriBG.Services.Mapping",
+        "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Mapping\\KarieriBG.Services.Mapping.csproj",
+        "packagesPath": "C:\\Users\\123\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Mapping\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Tests\\KarieriBG.Services.Data.Tests\\KarieriBG.Services.Data.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Tests\\KarieriBG.Services.Data.Tests\\KarieriBG.Services.Data.Tests.csproj",
+        "projectName": "KarieriBG.Services.Data.Tests",
+        "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Tests\\KarieriBG.Services.Data.Tests\\KarieriBG.Services.Data.Tests.csproj",
+        "packagesPath": "C:\\Users\\123\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Tests\\KarieriBG.Services.Data.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data\\KarieriBG.Data.csproj": {
+                "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data\\KarieriBG.Data.csproj"
+              },
+              "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Data\\KarieriBG.Services.Data.csproj": {
+                "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Data\\KarieriBG.Services.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.14.7, )"
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.205, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

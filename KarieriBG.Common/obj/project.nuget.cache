@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4atfdZ+64AkKkj0jjtAxQYgFo3OcaO7t04ZpTQ8Rzpw/8R7nRt7YUEyzY91YwnhHd4ZD7EAWS2Q7Gx6STrgpPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\KarieriBG.Common\\KarieriBG.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\123\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.205\\stylecop.analyzers.1.2.0-beta.205.nupkg.sha512",
+    "C:\\Users\\123\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.205\\stylecop.analyzers.unstable.1.2.0.205.nupkg.sha512"
+  ],
+  "logs": []
+}
