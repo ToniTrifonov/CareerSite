@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XdWmKHO7x1zVWfpX+fNUJ+1oXgHqxfWMT/lWwTQ3dXWtwR1RrhBhG3UVU5XKwRRMripE053VCxn5FMWb9dSe4w==",
+  "dgSpecHash": "B3bcsAlFCJNDIYmJYPlKXBW1gcxb5qLnXbOAGmX6wL+lcMuy6IGu3twSxNg0E/bbx0hZ3dTov0LnnszfI6z6Gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Web\\KarieriBG.Web.Infrastructure\\KarieriBG.Web.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Web\\KarieriBG.Web.Infrastructure\\KarieriBG.Web.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\123\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.205\\stylecop.analyzers.1.2.0-beta.205.nupkg.sha512",
     "C:\\Users\\123\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.205\\stylecop.analyzers.unstable.1.2.0.205.nupkg.sha512"

@@ -12,10 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("KarieriBG.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Kari" +
-    "eri\\Data\\KarieriBG.Data", "KarieriBG.Data.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("KarieriBG.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Kari" +
-    "eri\\Web\\KarieriBG.Web", "KarieriBG.Web.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("KarieriBG.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Data\\KarieriBG.Dat" +
+    "a", "KarieriBG.Data.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("KarieriBG.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Web\\KarieriBG.Web", "KarieriBG.Web.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("KarieriBG.Web.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

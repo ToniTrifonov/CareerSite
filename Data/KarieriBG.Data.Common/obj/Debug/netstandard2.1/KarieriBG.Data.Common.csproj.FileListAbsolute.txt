@@ -6,3 +6,11 @@ C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-
 C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Data\KarieriBG.Data.Common\obj\Debug\netstandard2.1\KarieriBG.Data.Common.csproj.CoreCompileInputs.cache
 C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Data\KarieriBG.Data.Common\obj\Debug\netstandard2.1\KarieriBG.Data.Common.dll
 C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Data\KarieriBG.Data.Common\obj\Debug\netstandard2.1\KarieriBG.Data.Common.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data.Common\bin\Debug\netstandard2.1\KarieriBG.Data.Common.deps.json
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data.Common\bin\Debug\netstandard2.1\KarieriBG.Data.Common.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data.Common\bin\Debug\netstandard2.1\KarieriBG.Data.Common.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data.Common\obj\Debug\netstandard2.1\KarieriBG.Data.Common.AssemblyInfoInputs.cache
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data.Common\obj\Debug\netstandard2.1\KarieriBG.Data.Common.AssemblyInfo.cs
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data.Common\obj\Debug\netstandard2.1\KarieriBG.Data.Common.csproj.CoreCompileInputs.cache
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data.Common\obj\Debug\netstandard2.1\KarieriBG.Data.Common.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data.Common\obj\Debug\netstandard2.1\KarieriBG.Data.Common.pdb

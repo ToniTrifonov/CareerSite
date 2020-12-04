@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZzwltOM8fItmHDa8R3Om+70zQruaAx3weMknM2frd9PniGDWIDNBNoFu+jsFzOJKcKQ8ejgH/Pol/3CpW2eqfw==",
+  "dgSpecHash": "+HybBnbZ7Xn9TynTLEkeOtrZA8FHDTsvp6FzidTG0RjkQ5cdj+QZViDTb2Y4nXRDryMFR24UTVf3bws3jsAsRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Tests\\Sandbox\\Sandbox.csproj",
+  "projectFilePath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Tests\\Sandbox\\Sandbox.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\123\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\123\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512",

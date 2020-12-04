@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VBmFKJmGmEZE75iGlu9ZmumF+4wtHX6P64eu61/gjI+h1QLQ6fjpoO1xNBW2tBO2uuBet62D050xYVEF+NPrOA==",
+  "dgSpecHash": "0o1ziM/GBrktk9R7fP2A3CXDTfp9ecazXt1GVKSXOJ/D28wso4uYkEMy9I5xYzrai34uXsNgIAsI7jyMZZRXsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Web\\KarieriBG.Web\\KarieriBG.Web.csproj",
+  "projectFilePath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Web\\KarieriBG.Web\\KarieriBG.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\123\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\123\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512",

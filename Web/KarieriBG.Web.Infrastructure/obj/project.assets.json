@@ -65,11 +65,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Web\\KarieriBG.Web.Infrastructure\\KarieriBG.Web.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Web\\KarieriBG.Web.Infrastructure\\KarieriBG.Web.Infrastructure.csproj",
       "projectName": "KarieriBG.Web.Infrastructure",
-      "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Web\\KarieriBG.Web.Infrastructure\\KarieriBG.Web.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Web\\KarieriBG.Web.Infrastructure\\KarieriBG.Web.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\123\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Web\\KarieriBG.Web.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Web\\KarieriBG.Web.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -164,11 +164,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Common\\KarieriBG.Data.Common.csproj",
+      "projectUniqueName": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Data\\KarieriBG.Data.Common\\KarieriBG.Data.Common.csproj",
       "projectName": "KarieriBG.Data.Common",
-      "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Common\\KarieriBG.Data.Common.csproj",
+      "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Data\\KarieriBG.Data.Common\\KarieriBG.Data.Common.csproj",
       "packagesPath": "C:\\Users\\123\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data.Common\\obj\\",
+      "outputPath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Data\\KarieriBG.Data.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config",

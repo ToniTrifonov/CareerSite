@@ -14,3 +14,19 @@ C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-
 C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Services\KarieriBG.Services.Data\obj\Debug\netstandard2.1\KarieriBG.Services.Data.csproj.CopyComplete
 C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Services\KarieriBG.Services.Data\obj\Debug\netstandard2.1\KarieriBG.Services.Data.dll
 C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Services\KarieriBG.Services.Data\obj\Debug\netstandard2.1\KarieriBG.Services.Data.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\bin\Debug\netstandard2.1\KarieriBG.Services.Data.deps.json
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\bin\Debug\netstandard2.1\KarieriBG.Services.Data.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\bin\Debug\netstandard2.1\KarieriBG.Services.Data.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\bin\Debug\netstandard2.1\KarieriBG.Data.Common.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\bin\Debug\netstandard2.1\KarieriBG.Data.Models.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\bin\Debug\netstandard2.1\KarieriBG.Services.Mapping.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\bin\Debug\netstandard2.1\KarieriBG.Data.Common.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\bin\Debug\netstandard2.1\KarieriBG.Data.Models.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\bin\Debug\netstandard2.1\KarieriBG.Services.Mapping.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\obj\Debug\netstandard2.1\KarieriBG.Services.Data.csprojAssemblyReference.cache
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\obj\Debug\netstandard2.1\KarieriBG.Services.Data.AssemblyInfoInputs.cache
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\obj\Debug\netstandard2.1\KarieriBG.Services.Data.AssemblyInfo.cs
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\obj\Debug\netstandard2.1\KarieriBG.Services.Data.csproj.CoreCompileInputs.cache
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\obj\Debug\netstandard2.1\KarieriBG.Services.Data.csproj.CopyComplete
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\obj\Debug\netstandard2.1\KarieriBG.Services.Data.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\obj\Debug\netstandard2.1\KarieriBG.Services.Data.pdb

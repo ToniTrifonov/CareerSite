@@ -5,6 +5,8 @@
     using System.IO;
     using System.Threading.Tasks;
 
+    using CommandLine;
+
     using KarieriBG.Data;
     using KarieriBG.Data.Common;
     using KarieriBG.Data.Common.Repositories;
@@ -13,8 +15,6 @@
     using KarieriBG.Data.Seeding;
     using KarieriBG.Services.Data;
     using KarieriBG.Services.Messaging;
-
-    using CommandLine;
 
     using Microsoft.EntityFrameworkCore;
     using Microsoft.Extensions.Configuration;

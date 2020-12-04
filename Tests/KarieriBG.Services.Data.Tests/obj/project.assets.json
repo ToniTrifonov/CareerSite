@@ -8656,11 +8656,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Tests\\KarieriBG.Services.Data.Tests\\KarieriBG.Services.Data.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Tests\\KarieriBG.Services.Data.Tests\\KarieriBG.Services.Data.Tests.csproj",
       "projectName": "KarieriBG.Services.Data.Tests",
-      "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Tests\\KarieriBG.Services.Data.Tests\\KarieriBG.Services.Data.Tests.csproj",
+      "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Tests\\KarieriBG.Services.Data.Tests\\KarieriBG.Services.Data.Tests.csproj",
       "packagesPath": "C:\\Users\\123\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Tests\\KarieriBG.Services.Data.Tests\\obj\\",
+      "outputPath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Tests\\KarieriBG.Services.Data.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8677,11 +8677,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data\\KarieriBG.Data.csproj": {
-              "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data\\KarieriBG.Data.csproj"
+            "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Data\\KarieriBG.Data\\KarieriBG.Data.csproj": {
+              "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Data\\KarieriBG.Data\\KarieriBG.Data.csproj"
             },
-            "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Data\\KarieriBG.Services.Data.csproj": {
-              "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Data\\KarieriBG.Services.Data.csproj"
+            "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Services\\KarieriBG.Services.Data\\KarieriBG.Services.Data.csproj": {
+              "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Services\\KarieriBG.Services.Data\\KarieriBG.Services.Data.csproj"
             }
           }
         }

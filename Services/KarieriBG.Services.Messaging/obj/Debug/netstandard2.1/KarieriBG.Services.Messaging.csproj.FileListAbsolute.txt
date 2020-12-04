@@ -7,3 +7,12 @@ C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-
 C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Services\KarieriBG.Services.Messaging\obj\Debug\netstandard2.1\KarieriBG.Services.Messaging.dll
 C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Services\KarieriBG.Services.Messaging\obj\Debug\netstandard2.1\KarieriBG.Services.Messaging.pdb
 C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Services\KarieriBG.Services.Messaging\obj\Debug\netstandard2.1\KarieriBG.Services.Messaging.csprojAssemblyReference.cache
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Messaging\bin\Debug\netstandard2.1\KarieriBG.Services.Messaging.deps.json
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Messaging\bin\Debug\netstandard2.1\KarieriBG.Services.Messaging.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Messaging\bin\Debug\netstandard2.1\KarieriBG.Services.Messaging.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Messaging\obj\Debug\netstandard2.1\KarieriBG.Services.Messaging.csprojAssemblyReference.cache
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Messaging\obj\Debug\netstandard2.1\KarieriBG.Services.Messaging.AssemblyInfoInputs.cache
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Messaging\obj\Debug\netstandard2.1\KarieriBG.Services.Messaging.AssemblyInfo.cs
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Messaging\obj\Debug\netstandard2.1\KarieriBG.Services.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Messaging\obj\Debug\netstandard2.1\KarieriBG.Services.Messaging.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Messaging\obj\Debug\netstandard2.1\KarieriBG.Services.Messaging.pdb

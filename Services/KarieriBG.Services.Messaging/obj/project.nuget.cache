@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SL0t4AyuN19PvBvkTxpLgQTg8v4zkh6FoKJWxGYtvHOvsO+VOF/U8dsdItd+lJCt435aQmTF9DB2Fv7mHucmGg==",
+  "dgSpecHash": "UZoiPS7m30nTKVt0AMVAYK5dY0a2J8Evlokhp+xD9tgHoXo5Ma/0Gd4MDe/9/RkGWQ9CFgtPC+y43yJZzngx3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Messaging\\KarieriBG.Services.Messaging.csproj",
+  "projectFilePath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Services\\KarieriBG.Services.Messaging\\KarieriBG.Services.Messaging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\123\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\123\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q7HqJkbqJ9AD9jJoRZbSh61TSrAUOh++wLfP/pfMCL9YD9L3KVmIt9Eo6oaxXd2JjXTdGkeMcfTEmd/X/d+rJQ==",
+  "dgSpecHash": "HFinhh0B7cnVNp3/oJr5Vvs/8eCY8FAp6i+PxrUeLRmevxfAZ+tBspL+A6enUOJW2rbfjM6KuS9bqcarO+O9DA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Data\\KarieriBG.Data\\KarieriBG.Data.csproj",
+  "projectFilePath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Data\\KarieriBG.Data\\KarieriBG.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\123\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.9\\microsoft.aspnetcore.cryptography.internal.3.1.9.nupkg.sha512",
     "C:\\Users\\123\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.9\\microsoft.aspnetcore.cryptography.keyderivation.3.1.9.nupkg.sha512",

@@ -10874,11 +10874,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Tests\\KarieriBG.Web.Tests\\KarieriBG.Web.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Tests\\KarieriBG.Web.Tests\\KarieriBG.Web.Tests.csproj",
       "projectName": "KarieriBG.Web.Tests",
-      "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Tests\\KarieriBG.Web.Tests\\KarieriBG.Web.Tests.csproj",
+      "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Tests\\KarieriBG.Web.Tests\\KarieriBG.Web.Tests.csproj",
       "packagesPath": "C:\\Users\\123\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Tests\\KarieriBG.Web.Tests\\obj\\",
+      "outputPath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Tests\\KarieriBG.Web.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10895,8 +10895,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Web\\KarieriBG.Web\\KarieriBG.Web.csproj": {
-              "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Web\\KarieriBG.Web\\KarieriBG.Web.csproj"
+            "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Web\\KarieriBG.Web\\KarieriBG.Web.csproj": {
+              "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Web\\KarieriBG.Web\\KarieriBG.Web.csproj"
             }
           }
         }

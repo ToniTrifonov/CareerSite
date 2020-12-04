@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iE4+7HgrOixFqvnvW7QfRpwRYPpZ2cGNRnEPHTJQ1iAvKlymVqxcM+NgsG9stvxD7m1lOLVMCuopCKYkna+omg==",
+  "dgSpecHash": "zUhmX7KQdVnsNLaJ9dgPKELPmMyyI1Eq929QPMJb54KrkOe3aMwD7S4PiE856lD/PbBtRcG11nl2Wvepzh+zzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Tests\\KarieriBG.Services.Data.Tests\\KarieriBG.Services.Data.Tests.csproj",
+  "projectFilePath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Tests\\KarieriBG.Services.Data.Tests\\KarieriBG.Services.Data.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\123\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\123\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",

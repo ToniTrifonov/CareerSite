@@ -1,9 +1,9 @@
 ﻿namespace KarieriBG.Web.ViewModels.Settings
 {
+    using AutoMapper;
+
     using KarieriBG.Data.Models;
     using KarieriBG.Services.Mapping;
-
-    using AutoMapper;
 
     public class SettingViewModel : IMapFrom<Setting>, IHaveCustomMappings
     {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Mapping\\KarieriBG.Services.Mapping.csproj": {}
+    "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Services\\KarieriBG.Services.Mapping\\KarieriBG.Services.Mapping.csproj": {}
   },
   "projects": {
-    "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Mapping\\KarieriBG.Services.Mapping.csproj": {
+    "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Services\\KarieriBG.Services.Mapping\\KarieriBG.Services.Mapping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Mapping\\KarieriBG.Services.Mapping.csproj",
+        "projectUniqueName": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Services\\KarieriBG.Services.Mapping\\KarieriBG.Services.Mapping.csproj",
         "projectName": "KarieriBG.Services.Mapping",
-        "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Mapping\\KarieriBG.Services.Mapping.csproj",
+        "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Services\\KarieriBG.Services.Mapping\\KarieriBG.Services.Mapping.csproj",
         "packagesPath": "C:\\Users\\123\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Mapping\\obj\\",
+        "outputPath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Services\\KarieriBG.Services.Mapping\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\123\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fldhudmR5NyyOGcJeHWJ611kGvZMYAmhM5ph840zcIMe3DaIwt+buvptwWDzMHv3jD4U9EMadUarxL6kT1Sb9w==",
+  "dgSpecHash": "vwZretQFOGXF4u3NwncT1Vte1mBvCHIoTjiwk8y6GgO7NjKq7QFbQUBll0NsmM3//wYCDOZwJQQuj14is6F/+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Mapping\\KarieriBG.Services.Mapping.csproj",
+  "projectFilePath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Services\\KarieriBG.Services.Mapping\\KarieriBG.Services.Mapping.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\123\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\123\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

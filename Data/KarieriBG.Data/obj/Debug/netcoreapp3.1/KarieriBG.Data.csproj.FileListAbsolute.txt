@@ -18,3 +18,23 @@ C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-
 C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Data\KarieriBG.Data\obj\Debug\netcoreapp3.1\KarieriBG.Data.dll
 C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Data\KarieriBG.Data\obj\Debug\netcoreapp3.1\KarieriBG.Data.pdb
 C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Data\KarieriBG.Data\obj\Debug\netcoreapp3.1\KarieriBG.Data.genruntimeconfig.cache
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\obj\Debug\netcoreapp3.1\KarieriBG.Data.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\obj\Debug\netcoreapp3.1\KarieriBG.Data.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\bin\Debug\netcoreapp3.1\KarieriBG.Data.deps.json
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\bin\Debug\netcoreapp3.1\KarieriBG.Data.runtimeconfig.json
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\bin\Debug\netcoreapp3.1\KarieriBG.Data.runtimeconfig.dev.json
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\bin\Debug\netcoreapp3.1\KarieriBG.Data.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\bin\Debug\netcoreapp3.1\KarieriBG.Data.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\bin\Debug\netcoreapp3.1\KarieriBG.Common.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\bin\Debug\netcoreapp3.1\KarieriBG.Data.Common.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\bin\Debug\netcoreapp3.1\KarieriBG.Data.Models.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\bin\Debug\netcoreapp3.1\KarieriBG.Common.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\bin\Debug\netcoreapp3.1\KarieriBG.Data.Common.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\bin\Debug\netcoreapp3.1\KarieriBG.Data.Models.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\obj\Debug\netcoreapp3.1\KarieriBG.Data.csprojAssemblyReference.cache
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\obj\Debug\netcoreapp3.1\KarieriBG.Data.AssemblyInfoInputs.cache
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\obj\Debug\netcoreapp3.1\KarieriBG.Data.AssemblyInfo.cs
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\obj\Debug\netcoreapp3.1\KarieriBG.Data.csproj.CoreCompileInputs.cache
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\obj\Debug\netcoreapp3.1\KarieriBG.Data.csproj.CopyComplete
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Data\KarieriBG.Data\obj\Debug\netcoreapp3.1\KarieriBG.Data.genruntimeconfig.cache

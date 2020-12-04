@@ -6,3 +6,11 @@ C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-
 C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Services\KarieriBG.Services.Mapping\obj\Debug\netstandard2.1\KarieriBG.Services.Mapping.csproj.CoreCompileInputs.cache
 C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Services\KarieriBG.Services.Mapping\obj\Debug\netstandard2.1\KarieriBG.Services.Mapping.dll
 C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Services\KarieriBG.Services.Mapping\obj\Debug\netstandard2.1\KarieriBG.Services.Mapping.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Mapping\bin\Debug\netstandard2.1\KarieriBG.Services.Mapping.deps.json
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Mapping\bin\Debug\netstandard2.1\KarieriBG.Services.Mapping.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Mapping\bin\Debug\netstandard2.1\KarieriBG.Services.Mapping.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Mapping\obj\Debug\netstandard2.1\KarieriBG.Services.Mapping.AssemblyInfoInputs.cache
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Mapping\obj\Debug\netstandard2.1\KarieriBG.Services.Mapping.AssemblyInfo.cs
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Mapping\obj\Debug\netstandard2.1\KarieriBG.Services.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Mapping\obj\Debug\netstandard2.1\KarieriBG.Services.Mapping.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Mapping\obj\Debug\netstandard2.1\KarieriBG.Services.Mapping.pdb

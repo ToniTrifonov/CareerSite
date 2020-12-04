@@ -11,7 +11,7 @@
             this.TypePositions = new HashSet<PositionType>();
         }
 
-        public Enumerations.JobType Name { get; set; }
+        public string Name { get; set; }
 
         public virtual ICollection<PositionType> TypePositions { get; set; }
     }

@@ -14,3 +14,19 @@ C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-
 C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Web\KarieriBG.Web.ViewModels\obj\Debug\netstandard2.1\KarieriBG.Web.ViewModels.csproj.CopyComplete
 C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Web\KarieriBG.Web.ViewModels\obj\Debug\netstandard2.1\KarieriBG.Web.ViewModels.dll
 C:\Users\123\OneDrive\Работен плот\SoftUni - C# Web\ASP.NET-Core-Web-Project\Web\KarieriBG.Web.ViewModels\obj\Debug\netstandard2.1\KarieriBG.Web.ViewModels.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.ViewModels\bin\Debug\netstandard2.1\KarieriBG.Web.ViewModels.deps.json
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.ViewModels\bin\Debug\netstandard2.1\KarieriBG.Web.ViewModels.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.ViewModels\bin\Debug\netstandard2.1\KarieriBG.Web.ViewModels.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.ViewModels\bin\Debug\netstandard2.1\KarieriBG.Data.Common.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.ViewModels\bin\Debug\netstandard2.1\KarieriBG.Data.Models.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.ViewModels\bin\Debug\netstandard2.1\KarieriBG.Services.Mapping.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.ViewModels\bin\Debug\netstandard2.1\KarieriBG.Data.Models.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.ViewModels\bin\Debug\netstandard2.1\KarieriBG.Services.Mapping.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.ViewModels\bin\Debug\netstandard2.1\KarieriBG.Data.Common.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.ViewModels\obj\Debug\netstandard2.1\KarieriBG.Web.ViewModels.csprojAssemblyReference.cache
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.ViewModels\obj\Debug\netstandard2.1\KarieriBG.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.ViewModels\obj\Debug\netstandard2.1\KarieriBG.Web.ViewModels.AssemblyInfo.cs
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.ViewModels\obj\Debug\netstandard2.1\KarieriBG.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.ViewModels\obj\Debug\netstandard2.1\KarieriBG.Web.ViewModels.csproj.CopyComplete
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.ViewModels\obj\Debug\netstandard2.1\KarieriBG.Web.ViewModels.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.ViewModels\obj\Debug\netstandard2.1\KarieriBG.Web.ViewModels.pdb

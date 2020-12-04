@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SuoplsKWzFoADDVvKfLv9jm1wWOs+rObXYRkjraXkgltRIrbgrmTlMuN5JVWQLA1cBUlb1ZfHbiNMEHqRXjdbw==",
+  "dgSpecHash": "yQyxNDykJ+qUS/hgFpGnZvQDuVaPb9Nj5n/vMz3F7Sm0AlQ3W4og/gnJk11b/IxrwlWeHZvrilzwyNK2db6VCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\123\\OneDrive\\Работен плот\\SoftUni - C# Web\\ASP.NET-Core-Web-Project\\Karieri\\Services\\KarieriBG.Services.Data\\KarieriBG.Services.Data.csproj",
+  "projectFilePath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Services\\KarieriBG.Services.Data\\KarieriBG.Services.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\123\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\123\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.9\\microsoft.aspnetcore.cryptography.internal.3.1.9.nupkg.sha512",
