@@ -30,3 +30,5 @@ C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Servic
 C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\obj\Debug\netstandard2.1\KarieriBG.Services.Data.csproj.CopyComplete
 C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\obj\Debug\netstandard2.1\KarieriBG.Services.Data.dll
 C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\obj\Debug\netstandard2.1\KarieriBG.Services.Data.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\bin\Debug\netstandard2.1\KarieriBG.Web.ViewModels.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Data\bin\Debug\netstandard2.1\KarieriBG.Web.ViewModels.pdb

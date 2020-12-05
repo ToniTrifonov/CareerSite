@@ -436,6 +436,20 @@
         "runtime": {
           "bin/placeholder/KarieriBG.Services.Mapping.dll": {}
         }
+      },
+      "KarieriBG.Web.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "KarieriBG.Data.Models": "1.0.0",
+          "KarieriBG.Services.Mapping": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/KarieriBG.Web.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KarieriBG.Web.ViewModels.dll": {}
+        }
       }
     }
   },
@@ -1308,6 +1322,11 @@
       "type": "project",
       "path": "../KarieriBG.Services.Mapping/KarieriBG.Services.Mapping.csproj",
       "msbuildProject": "../KarieriBG.Services.Mapping/KarieriBG.Services.Mapping.csproj"
+    },
+    "KarieriBG.Web.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../../Web/KarieriBG.Web.ViewModels/KarieriBG.Web.ViewModels.csproj",
+      "msbuildProject": "../../Web/KarieriBG.Web.ViewModels/KarieriBG.Web.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1315,6 +1334,7 @@
       "KarieriBG.Data.Common >= 1.0.0",
       "KarieriBG.Data.Models >= 1.0.0",
       "KarieriBG.Services.Mapping >= 1.0.0",
+      "KarieriBG.Web.ViewModels >= 1.0.0",
       "StyleCop.Analyzers >= 1.2.0-beta.205"
     ]
   },
@@ -1353,6 +1373,9 @@
             },
             "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Services\\KarieriBG.Services.Mapping\\KarieriBG.Services.Mapping.csproj": {
               "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Services\\KarieriBG.Services.Mapping\\KarieriBG.Services.Mapping.csproj"
+            },
+            "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Web\\KarieriBG.Web.ViewModels\\KarieriBG.Web.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\123\\OneDrive\\Работен плот\\C# Web Project\\KarierenSait\\Web\\KarieriBG.Web.ViewModels\\KarieriBG.Web.ViewModels.csproj"
             }
           }
         }

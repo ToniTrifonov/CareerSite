@@ -1,7 +1,67 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model KarieriBG.Web.ViewModels.Position.AddPositionInputModel
+
 @{
+    this.ViewData["Title"] = "Add job offer";
 }
 
-<h1>Add Position Offer!</h1>
+<form method="post" class="col-md-6 offset-md-3"
+      enctype="multipart/form-data">
+    <h1>@this.ViewData["Title"]</h1>
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="CompanyName"></label>
+        <input asp-for="CompanyName" class="form-control" />
+        <span asp-validation-for="CompanyName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Responsibilities"></label>
+        <textarea asp-for="Responsibilities" class="form-control"></textarea>
+        <span asp-validation-for="Responsibilities" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Requirements"></label>
+        <textarea asp-for="Requirements" class="form-control"></textarea>
+        <span asp-validation-for="Requirements" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Offerings"></label>
+        <textarea asp-for="Offerings" class="form-control"></textarea>
+        <span asp-validation-for="Offerings" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Types"></label>
+        <input asp-for="Types" class="form-control" />
+        <span asp-validation-for="Types" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Cities"></label>
+        <input asp-for="Cities" class="form-control" />
+        <span asp-validation-for="Cities" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="CategoryId"></label>
+        <input asp-for="CategoryId" class="form-control" />
+        <span asp-validation-for="CategoryId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DepartmentId"></label>
+        <input asp-for="DepartmentId" class="form-control" />
+        <span asp-validation-for="DepartmentId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DegreeId"></label>
+        <input asp-for="DegreeId" class="form-control" />
+        <span asp-validation-for="DegreeId" class="text-danger"></span>
+    </div>
+    <input type="submit" class="btn btn-primary" />
+</form>

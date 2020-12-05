@@ -1711,7 +1711,8 @@
         "dependencies": {
           "KarieriBG.Data.Common": "1.0.0",
           "KarieriBG.Data.Models": "1.0.0",
-          "KarieriBG.Services.Mapping": "1.0.0"
+          "KarieriBG.Services.Mapping": "1.0.0",
+          "KarieriBG.Web.ViewModels": "1.0.0"
         },
         "compile": {
           "bin/placeholder/KarieriBG.Services.Data.dll": {}
@@ -1744,6 +1745,20 @@
         },
         "runtime": {
           "bin/placeholder/KarieriBG.Services.Messaging.dll": {}
+        }
+      },
+      "KarieriBG.Web.ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "KarieriBG.Data.Models": "1.0.0",
+          "KarieriBG.Services.Mapping": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/KarieriBG.Web.ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KarieriBG.Web.ViewModels.dll": {}
         }
       }
     }
@@ -6174,6 +6189,11 @@
       "type": "project",
       "path": "../../Services/KarieriBG.Services.Messaging/KarieriBG.Services.Messaging.csproj",
       "msbuildProject": "../../Services/KarieriBG.Services.Messaging/KarieriBG.Services.Messaging.csproj"
+    },
+    "KarieriBG.Web.ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../../Web/KarieriBG.Web.ViewModels/KarieriBG.Web.ViewModels.csproj",
+      "msbuildProject": "../../Web/KarieriBG.Web.ViewModels/KarieriBG.Web.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {

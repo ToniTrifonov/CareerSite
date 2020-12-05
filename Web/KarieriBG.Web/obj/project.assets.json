@@ -2938,7 +2938,8 @@
         "dependencies": {
           "KarieriBG.Data.Common": "1.0.0",
           "KarieriBG.Data.Models": "1.0.0",
-          "KarieriBG.Services.Mapping": "1.0.0"
+          "KarieriBG.Services.Mapping": "1.0.0",
+          "KarieriBG.Web.ViewModels": "1.0.0"
         },
         "compile": {
           "bin/placeholder/KarieriBG.Services.Data.dll": {}

@@ -21,6 +21,7 @@
   <ItemGroup>
     <ProjectReference Include="..\..\Data\KarieriBG.Data.Common\KarieriBG.Data.Common.csproj" />
     <ProjectReference Include="..\..\Data\KarieriBG.Data.Models\KarieriBG.Data.Models.csproj" />
+    <ProjectReference Include="..\..\Web\KarieriBG.Web.ViewModels\KarieriBG.Web.ViewModels.csproj" />
     <ProjectReference Include="..\KarieriBG.Services.Mapping\KarieriBG.Services.Mapping.csproj" />
   </ItemGroup>
 

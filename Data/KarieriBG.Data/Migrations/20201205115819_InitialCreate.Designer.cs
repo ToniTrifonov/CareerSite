@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace KarieriBG.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20201204075902_InitialSetup")]
-    partial class InitialSetup
+    [Migration("20201205115819_InitialCreate")]
+    partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
