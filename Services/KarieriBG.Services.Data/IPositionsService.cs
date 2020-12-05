@@ -10,5 +10,7 @@
     public interface IPositionsService
     {
         Task AddAsync(AddPositionInputModel input);
+
+        PositionViewModel GetById(string id);
     }
 }

@@ -21,14 +21,11 @@
             this.positionsService = positionsService;
         }
 
-        public IActionResult All(int id)
+        public IActionResult All(string id)
         {
-            if (id == 0)
-            {
-                return this.View();
-            }
+            var viewModel = this.positionsService.GetById(id);
 
-            return this.View();
+            return this.Json(viewModel);
         }
 
         // TOOD: Fix post method
