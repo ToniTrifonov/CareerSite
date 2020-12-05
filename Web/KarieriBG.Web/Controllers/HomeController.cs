@@ -2,15 +2,31 @@
 {
     using System.Diagnostics;
 
+    using KarieriBG.Services.Data;
     using KarieriBG.Web.ViewModels;
-
+    using KarieriBG.Web.ViewModels.Home;
     using Microsoft.AspNetCore.Mvc;
 
     public class HomeController : BaseController
     {
+        private readonly IGetCountsService getCountsService;
+
+        public HomeController(IGetCountsService getCountsService)
+        {
+            this.getCountsService = getCountsService;
+        }
+
         public IActionResult Index()
         {
-            return this.View();
+            var data = this.getCountsService.GetCounts();
+
+            var viewModel = new IndexViewModel()
+            {
+                CitiesCount = data.CitiesCount,
+                PositionsCount = data.PositionsCount,
+            };
+
+            return this.View(viewModel);
         }
 
         public IActionResult Privacy()
