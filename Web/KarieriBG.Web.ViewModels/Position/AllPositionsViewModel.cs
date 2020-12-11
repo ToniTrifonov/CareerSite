@@ -1,15 +1,16 @@
 ﻿namespace KarieriBG.Web.ViewModels.Position
 {
-    using System;
+    using System.Collections.Generic;
 
     public class AllPositionsViewModel
     {
-        public string PositionName { get; set; }
+        public AllPositionsViewModel()
+        {
+            this.Positions = new HashSet<PositionViewModel>();
+        }
 
-        public string CompanyName { get; set; }
+        public ICollection<PositionViewModel> Positions { get; set; }
 
-        public DateTime AddedOn { get; set; }
-
-        public Type Type { get; set; }
+        public int PageNumber { get; set; }
     }
 }

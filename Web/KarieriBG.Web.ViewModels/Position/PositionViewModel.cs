@@ -5,8 +5,9 @@
     using System.Text;
 
     using KarieriBG.Data.Models;
+    using KarieriBG.Services.Mapping;
 
-    public class PositionViewModel
+    public class PositionViewModel : IMapFrom<Position>
     {
         public PositionViewModel()
         {

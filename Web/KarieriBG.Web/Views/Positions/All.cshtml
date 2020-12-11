@@ -1,8 +1,21 @@
-﻿@*
-    
-*@
+﻿@model KarieriBG.Web.ViewModels.Position.AllPositionsViewModel
+
 @{
     this.ViewData["Title"] = "All Positions Available!!";
 }
 
 <h1>@this.ViewData["Title"]</h1>
+<br />
+<div class="row">
+    @foreach (var position in this.Model.Positions)
+    {
+        <div class="media col-md-4">
+            <div class="media-body">
+                <h5>@position.PositionName</h5>
+                <h5>@position.CompanyName</h5>
+                <h5>@position.AddedOn</h5>
+                <h5>@position.Types</h5>
+            </div>
+        </div>
+    }
+</div>

@@ -11,6 +11,10 @@
     {
         Task AddAsync(AddPositionInputModel input);
 
-        PositionViewModel GetById(string id);
+        T GetById<T>(string id);
+
+        AllPositionsViewModel GetAll();
+
+        Task EditAsync(string id, EditPositionViewModel input);
     }
 }

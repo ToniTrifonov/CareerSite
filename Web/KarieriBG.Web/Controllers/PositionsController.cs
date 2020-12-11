@@ -21,11 +21,48 @@
             this.positionsService = positionsService;
         }
 
-        public IActionResult All(string id)
+        public IActionResult Edit(string id)
         {
-            var viewModel = this.positionsService.GetById(id);
+            var position = this.positionsService.GetById<EditPositionViewModel>(id);
 
-            return this.Json(viewModel);
+            if (position == null)
+            {
+                return this.NotFound();
+            }
+
+            return this.View(position);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Edit(string id, EditPositionViewModel input)
+        {
+            if (!this.ModelState.IsValid)
+            {
+                return this.View();
+            }
+
+            await this.positionsService.EditAsync(id, input);
+
+            return this.Redirect($"/Positions/ById/{id}");
+        }
+
+        public IActionResult All(int id = 1)
+        {
+            if (id <= 0)
+            {
+                return this.NotFound();
+            }
+
+            var viewModel = this.positionsService.GetAll();
+
+            return this.View(viewModel);
+        }
+
+        public IActionResult ById(string id)
+        {
+            var viewModel = this.positionsService.GetById<PositionViewModel>(id);
+
+            return this.View(viewModel);
         }
 
         // TOOD: Fix post method

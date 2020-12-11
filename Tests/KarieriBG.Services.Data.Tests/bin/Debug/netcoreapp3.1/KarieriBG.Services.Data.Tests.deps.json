@@ -1884,7 +1884,8 @@
         "dependencies": {
           "KarieriBG.Data.Common": "1.0.0",
           "KarieriBG.Data.Models": "1.0.0",
-          "KarieriBG.Services.Mapping": "1.0.0"
+          "KarieriBG.Services.Mapping": "1.0.0",
+          "KarieriBG.Web.ViewModels": "1.0.0"
         },
         "runtime": {
           "KarieriBG.Services.Data.dll": {}
@@ -1896,6 +1897,15 @@
         },
         "runtime": {
           "KarieriBG.Services.Mapping.dll": {}
+        }
+      },
+      "KarieriBG.Web.ViewModels/1.0.0": {
+        "dependencies": {
+          "KarieriBG.Data.Models": "1.0.0",
+          "KarieriBG.Services.Mapping": "1.0.0"
+        },
+        "runtime": {
+          "KarieriBG.Web.ViewModels.dll": {}
         }
       }
     }
@@ -3059,6 +3069,11 @@
       "sha512": ""
     },
     "KarieriBG.Services.Mapping/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KarieriBG.Web.ViewModels/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

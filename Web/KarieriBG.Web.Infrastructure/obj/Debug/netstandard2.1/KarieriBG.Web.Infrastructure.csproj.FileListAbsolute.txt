@@ -14,3 +14,4 @@ C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\Ka
 C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.Infrastructure\obj\Debug\netstandard2.1\KarieriBG.Web.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.Infrastructure\obj\Debug\netstandard2.1\KarieriBG.Web.Infrastructure.dll
 C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.Infrastructure\obj\Debug\netstandard2.1\KarieriBG.Web.Infrastructure.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web.Infrastructure\obj\Debug\netstandard2.1\KarieriBG.Web.Infrastructure.csprojAssemblyReference.cache

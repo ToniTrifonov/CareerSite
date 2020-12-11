@@ -916,3 +916,5 @@ C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\Ka
 C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web\obj\Debug\netcoreapp3.1\KarieriBG.Web.genruntimeconfig.cache
 C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web\obj\Debug\netcoreapp3.1\Razor\Views\Positions\Add.cshtml.g.cs
 C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web\obj\Debug\netcoreapp3.1\Razor\Views\Positions\All.cshtml.g.cs
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web\obj\Debug\netcoreapp3.1\Razor\Views\Positions\ById.cshtml.g.cs
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Web\KarieriBG.Web\obj\Debug\netcoreapp3.1\Razor\Views\Positions\Edit.cshtml.g.cs

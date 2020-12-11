@@ -8,6 +8,7 @@
 
     using KarieriBG.Data.Common.Repositories;
     using KarieriBG.Data.Models;
+    using KarieriBG.Services.Mapping;
     using KarieriBG.Web.ViewModels.Position;
 
     public class PositionsService : IPositionsService
@@ -58,19 +59,56 @@
             await this.positionsRepository.SaveChangesAsync();
         }
 
-        public PositionViewModel GetById(string id)
+        public async Task EditAsync(string id, EditPositionViewModel input)
         {
-            var position = this.positionsRepository.All().First(x => x.Id == id);
+            var position = this.positionsRepository
+                .All()
+                .FirstOrDefault(x => x.Id == id);
 
-            var positionViewModel = new PositionViewModel()
+            position.Name = input.Name;
+            position.CompanyName = input.CompanyName;
+            position.Requirements = input.Requirements;
+            position.Description = input.Description;
+            position.Offerings = input.Offerings;
+            position.Responsibilities = input.Responsibilities;
+            position.PositionCities = input.Cities;
+            position.PositionTypes = input.Types;
+            position.CategoryId = input.CategoryId;
+            position.DegreeId = input.DegreeId;
+            position.DepartmentId = input.DepartmentId;
+
+            await this.positionsRepository.SaveChangesAsync();
+        }
+
+        public AllPositionsViewModel GetAll()
+        {
+            var positions = this.positionsRepository
+                .All()
+                .Select(x => new PositionViewModel()
+                {
+                    CompanyName = x.CompanyName,
+                    PositionName = x.Name,
+                    AddedOn = x.CreatedOn,
+                    Types = x.PositionTypes,
+                })
+                .ToList();
+
+            var allPositionsViewModel = new AllPositionsViewModel()
             {
-                PositionName = position.Name,
-                CompanyName = position.CompanyName,
-                AddedOn = position.CreatedOn,
-                Types = position.PositionTypes,
+                Positions = positions,
             };
 
-            return positionViewModel;
+            return allPositionsViewModel;
+        }
+
+        public T GetById<T>(string id)
+        {
+            var position = this.positionsRepository
+                .AllAsNoTracking()
+                .Where(x => x.Id == id)
+                .To<T>().FirstOrDefault();
+
+            return position;
         }
     }
 }

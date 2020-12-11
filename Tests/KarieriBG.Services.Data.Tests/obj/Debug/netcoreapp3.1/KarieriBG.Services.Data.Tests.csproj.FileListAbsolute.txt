@@ -326,3 +326,5 @@ C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Tests\
 C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Tests\KarieriBG.Services.Data.Tests\obj\Debug\netcoreapp3.1\KarieriBG.Services.Data.Tests.dll
 C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Tests\KarieriBG.Services.Data.Tests\obj\Debug\netcoreapp3.1\KarieriBG.Services.Data.Tests.pdb
 C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Tests\KarieriBG.Services.Data.Tests\obj\Debug\netcoreapp3.1\KarieriBG.Services.Data.Tests.genruntimeconfig.cache
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Tests\KarieriBG.Services.Data.Tests\bin\Debug\netcoreapp3.1\KarieriBG.Web.ViewModels.dll
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Tests\KarieriBG.Services.Data.Tests\bin\Debug\netcoreapp3.1\KarieriBG.Web.ViewModels.pdb

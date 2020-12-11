@@ -14,3 +14,4 @@ C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Servic
 C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Mapping\obj\Debug\netstandard2.1\KarieriBG.Services.Mapping.csproj.CoreCompileInputs.cache
 C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Mapping\obj\Debug\netstandard2.1\KarieriBG.Services.Mapping.dll
 C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Mapping\obj\Debug\netstandard2.1\KarieriBG.Services.Mapping.pdb
+C:\Users\123\OneDrive\Работен плот\C# Web Project\KarierenSait\Services\KarieriBG.Services.Mapping\obj\Debug\netstandard2.1\KarieriBG.Services.Mapping.csprojAssemblyReference.cache
