@@ -59,6 +59,13 @@
             await this.positionsRepository.SaveChangesAsync();
         }
 
+        public async Task DeleteAsync(string id)
+        {
+            var position = this.positionsRepository.All().FirstOrDefault(x => x.Id == id);
+            this.positionsRepository.Delete(position);
+            await this.positionsRepository.SaveChangesAsync();
+        }
+
         public async Task EditAsync(string id, EditPositionViewModel input)
         {
             var position = this.positionsRepository
@@ -104,7 +111,7 @@
         public T GetById<T>(string id)
         {
             var position = this.positionsRepository
-                .AllAsNoTracking()
+                .All()
                 .Where(x => x.Id == id)
                 .To<T>().FirstOrDefault();
 

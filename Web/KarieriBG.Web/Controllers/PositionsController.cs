@@ -21,6 +21,13 @@
             this.positionsService = positionsService;
         }
 
+        public async Task<IActionResult> Delete(string id)
+        {
+            await this.positionsService.DeleteAsync(id);
+
+            return this.Redirect("/Positions/All");
+        }
+
         public IActionResult Edit(string id)
         {
             var position = this.positionsService.GetById<EditPositionViewModel>(id);

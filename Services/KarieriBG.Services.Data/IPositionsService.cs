@@ -16,5 +16,7 @@
         AllPositionsViewModel GetAll();
 
         Task EditAsync(string id, EditPositionViewModel input);
+
+        Task DeleteAsync(string id);
     }
 }
